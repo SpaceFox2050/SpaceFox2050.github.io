@@ -28,7 +28,7 @@ twitter_username:
 github_username:  SpaceFox2050
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
