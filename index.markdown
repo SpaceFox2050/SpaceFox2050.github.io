@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Home Page
+
+Welcome to the main page
