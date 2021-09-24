@@ -2,9 +2,9 @@
  * Site header
  */
 .site-header {
-  border-top: 2px solid $grey-color-dark;
+  border-top: 4px solid $grey-color-dark;
   background-color: #000000;
-  border-bottom: 2px solid $grey-color-dark;
+  border-bottom: 4px solid $grey-color-dark;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -27,19 +27,23 @@
 }
 
 .site-nav {
+  color: #000000;
+  background-color: #000000;
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
+    background-color: #000000;
       display: none;
   }
 
   .menu-icon {
+    background-color: #000000;
     display: none;
   }
 
   .page-link {
-    color: $text-color;
+    color: #ffffff;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
