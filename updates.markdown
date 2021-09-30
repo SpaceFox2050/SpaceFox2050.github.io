@@ -1,10 +1,9 @@
 ---
 layout: page
+title: Website Updates
 permalink: /updates/
 ---
 
-<center> <h1> Website Updates </h1> </center>
+<b> Sep 18 </b>
 
-Sep 18
-
-<center> Website created, basic files uploaded, theme set as minima </center>
+Website created, basic files uploaded, theme set as minima
