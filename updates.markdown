@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Website Updates
 permalink: /updates/
 ---
 
