@@ -3,5 +3,5 @@ layout: page
 permalink: /updates/
 ---
 
-<center> <h2> Website Updates </h2> </center>
+<center> <h1> Website Updates </h1> </center>
 
